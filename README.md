@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm 0nly0
 
-<!--
-**02nly0/02nly0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full-Stack Web Developer focused on building fast, secure, and modern web applications with a beautiful dark aesthetic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+* 📂 **[OnlyDrive](https://onlydrive.vercel.app/)** - Full-featured file hosting and sharing platform.
+* 🕊️ **[Wings](https://wings-system.vercel.app/)** - Modern web application with clean UI/UX.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** JavaScript, Java, HTML5, CSS3
+* **Backend:** Node.js
+* **Tools & Security:** Cloudflare (DDoS protection, DNS Management)
+* **OS:** Optimized Windows Environment
+
+---
+
+## Discord
+<a href="https://discord.com/users/1090592268739694714"><img src="https://lanyard.cnrad.dev/api/1090592268739694714?theme=dark&showDisplayName=true" /></a>
