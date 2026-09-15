@@ -23,6 +23,8 @@ A passionate Full-Stack Web Developer focused on building fast, secure, and mode
 ## Discord
 <a href="https://discord.com/users/1090592268739694714"><img src="https://lanyard.cnrad.dev/api/1090592268739694714?theme=dark&showDisplayName=true" /></a>
 
-Check out my full portfolio → https://0nly0.pages.dev
+portfolio → https://0nly0.pages.dev
 
 © 2026 0nly0
+
+---
