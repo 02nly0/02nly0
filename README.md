@@ -4,23 +4,21 @@ Full-Stack Developer | Performance & Security Focus
 
 Building fast, minimal, and modern web experiences with a dark-first design philosophy.
 
-</div>---
+</div>
 
 ---
 
-🛠️ Stack
+🛠️ Stack Core
 
-Core
-
-JavaScript • Node.js • HTML • CSS • Java
+** JavaScript • Node.js • HTML • CSS • Java
 
 Tools
 
-Cloudflare • DNS • Performance Optimization • Secure Deployment
+** Cloudflare • DNS • Performance Optimization • Secure Deployment
 
 Environment
 
-Windows (Optimized Dev Setup)
+** Windows (Optimized Dev Setup)
 
 ---
 
