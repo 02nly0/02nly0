@@ -33,5 +33,6 @@
   
 <sub>© 2026 Shawarma<sub>
 
-<div>
 ---
+
+<div>
