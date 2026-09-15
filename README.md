@@ -1,8 +1,11 @@
+<div align="center">
+  
+# **Hi there, I'm 0nly0**  
+  
+**A passionate Full-Stack Web Developer focused on Building fast, secure, modern web apps  obsessed with clean dark UI.**  
 
-# Hi there, I'm 0nly0  
-  
-A passionate Full-Stack Web Developer focused on building fast, secure, and modern web applications with a beautiful dark aesthetic.  
-  
+</div>
+
 ---  
   
 ### 🚀 Featured Projects  
@@ -23,9 +26,12 @@ A passionate Full-Stack Web Developer focused on building fast, secure, and mode
   
 ## Discord  
 <a href="https://discord.com/users/1090592268739694714"><img src="https://lanyard.cnrad.dev/api/1090592268739694714?theme=dark&showDisplayName=true" /></a>  
+
+<div align="center">  
   
-Check out my full portfolio →       https://0nly0.pages.dev  
+**My Portfolio →   https://0nly0.pages.dev**  
   
-© 2026 0nly0  
-  
+<sub>© 2026 Shawarma<sub>
+
+<div>
 ---
