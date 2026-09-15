@@ -1,10 +1,8 @@
-<div align="center">0nly0 ⚡
+<div align="center">0nly0 
 
 Full-Stack Developer | Performance & Security Focus
 
 Building fast, minimal, and modern web experiences with a dark-first design philosophy.
-
-"Portfolio" (https://0nly0.pages.dev) • "Discord" (https://discord.com/users/1090592268739694714)
 
 </div>---
 
