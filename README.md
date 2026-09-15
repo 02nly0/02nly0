@@ -1,56 +1,42 @@
-<div align="center">0nly0 
+Hi there, I'm 0nly0
 
-Full-Stack Developer | Performance & Security Focus
+A passionate Full-Stack Web Developer focused on building fast, secure, and modern web applications with a beautiful dark aesthetic.
 
-Building fast, minimal, and modern web experiences with a dark-first design philosophy.
-
-</div>
 
 ---
 
-🛠️ Stack Core
+#🚀 Projects
 
-** JavaScript • Node.js • HTML • CSS • Java
+📂 OnlyDrive - Full-featured file hosting and sharing platform.
 
-Tools
+🕊️ Wings - Modern web application with clean UI/UX.
 
-** Cloudflare • DNS • Performance Optimization • Secure Deployment
 
-Environment
-
-** Windows (Optimized Dev Setup)
 
 ---
 
-🚀 Projects
+##🛠️ Tech Stack & Skills
 
-🔹 OnlyDrive
+- Languages: JavaScript, Java, HTML5, CSS3
 
-Modern file hosting & sharing platform built for speed and simplicity
-→ https://onlydrive.vercel.app/
+- Backend: Node.js
 
-🔹 Wings
+- Tools & Security:
+- Cloudflare (DDoS protection, DNS Management)
 
-Clean UI-focused web app with smooth user experience
-→ https://wings-system.vercel.app/
+OS: Optimized Windows Environment
 
----
 
-📊 GitHub
-
-<div align="center">https://github-readme-stats.vercel.app/api?username=0nly0&show_icons=true&theme=dark&hide_border=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=0nly0&layout=compact&theme=dark&hide_border=true
-
-</div>---
-
-🌐 Reach Me
-
-- Discord: https://discord.com/users/1090592268739694714
-- Portfolio: https://0nly0.pages.dev
 
 ---
 
-<div align="center">"Build simple. Build fast. Build right."
+###Discord
 
-</div>
+<a href="https://discord.com/users/1090592268739694714"><img src="https://lanyard.cnrad.dev/api/1090592268739694714?theme=dark&showDisplayName=true" /></a>
+
+Check out my full portfolio →       https://0nly0.pages.dev
+
+© 2026 0nly0
+
+
+---
