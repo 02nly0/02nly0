@@ -20,10 +20,32 @@
 ### 🛠️ Tech Stack & Skills  
 
 ```text
-Languages: JavaScript, Java, HTML5, CSS3  
-Backend: Node.js  
-Tools & Security: Cloudflare (DDoS protection, DNS Management)  
-OS: Optimized Windows Environment  
+🚀 Tech Stack
+
+💻 Languages
+
+"JavaScript" (https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=fff)
+"TypeScript" (https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=fff)
+"Java" (https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=openjdk&logoColor=fff)
+"Python" (https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=fff)
+"HTML5" (https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=fff)
+"CSS3" (https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=fff)
+
+⚙️ Backend
+
+"Node.js" (https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=fff)
+
+🗄️ Database
+
+"MongoDB" (https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=fff)
+
+🛡️ Tools & Security
+
+"Cloudflare" (https://img.shields.io/badge/-Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=fff)
+
+🖥️ OS
+
+"Windows" (https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows&logoColor=fff)
 ```
 
 ---  
