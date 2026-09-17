@@ -20,10 +20,10 @@
 ### 🛠️ Tech Stack & Skills  
 
 ```text
-* **Languages:** JavaScript, Java, HTML5, CSS3  
-* **Backend:** Node.js  
-* **Tools & Security:** Cloudflare (DDoS protection, DNS Management)  
-* **OS:** Optimized Windows Environment  
+Languages: JavaScript, Java, HTML5, CSS3  
+Backend: Node.js  
+Tools & Security: Cloudflare (DDoS protection, DNS Management)  
+OS: Optimized Windows Environment  
 ```
 
 ---  
