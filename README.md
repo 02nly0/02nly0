@@ -4,6 +4,8 @@
   
 **A passionate Full-Stack Web Developer focused on Building fast, secure, modern web apps  obsessed with clean dark UI.**  
 
+[![Profile Views](https://komarev.com/ghpvc/?username=02nly0&style=flat-square&color=000000&label=PROFILE+VIEWS)](https://github.com/02nly0)
+
 </div>
 
 ---  
