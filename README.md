@@ -22,16 +22,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white)
-
----  
   
-  
-### 🚀 Featured Projects  
-  
-* 📂 **[OnlyDrive](https://onlydrive.vercel.app/)** - Full-featured file hosting and sharing platform.  
-* 🕊️ **[Wings](https://wings-system.vercel.app/)** - Modern web application with clean UI/UX.  
-  
----  
+---
 
 ## Discord  
 <div align="center">
