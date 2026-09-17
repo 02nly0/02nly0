@@ -25,7 +25,11 @@
 ---  
   
 ## Discord  
+<div align="center">
+  
 <a href="https://discord.com/users/1090592268739694714"><img src="https://lanyard.cnrad.dev/api/1090592268739694714?theme=dark&showDisplayName=true" /></a>  
+
+</div>
 
 <div align="center">  
   
