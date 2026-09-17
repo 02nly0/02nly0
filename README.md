@@ -19,7 +19,6 @@
   
 ### 🛠️ Tech Stack & Skills  
 
-```text
 🚀 Tech Stack
 
 💻 Languages
@@ -46,7 +45,7 @@
 🖥️ OS
 
 "Windows" (https://img.shields.io/badge/-Windows-000?style=for-the-badge&logo=windows&logoColor=fff)
-```
+
 
 ---  
   
