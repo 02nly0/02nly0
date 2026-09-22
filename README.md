@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills  
+## 🛠️ Tech Stack & Skills  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,7 +25,7 @@
   
 ---
 
-## Discord  
+### Discord  
 <div align="center">
   
 <a href="https://discord.com/users/1090592268739694714"><img src="https://lanyard.cnrad.dev/api/1090592268739694714?theme=dark&showDisplayName=true" /></a>  
@@ -36,7 +36,7 @@
   
 **My Portfolio →   https://0nly0.pages.dev**  
   
-<sub>© 2026 Shawarma<sub>
+<sub>© 2026 02nly0<sub>
 
 ---
 
