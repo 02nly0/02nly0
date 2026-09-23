@@ -23,6 +23,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white)
+![Brave Browser](https://img.shields.io/badge/brave_Browser-000?style=for-the-badge&logo=brave&logoColor=white)
   
 #
 
