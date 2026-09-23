@@ -1,3 +1,4 @@
+#
 <div align="center">
   
 # **Hi there, I'm 0nly0**  
@@ -8,7 +9,8 @@
 
 </div>
 
----
+
+
 
 ## 🛠️ Tech Stack & Skills  
 
@@ -23,7 +25,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-000?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=white)
   
----
+#
 
 ### Discord  
 <div align="center">
@@ -34,10 +36,10 @@
 
 <div align="center">  
   
-**My Portfolio →   https://0nly0.pages.dev**  
+**My Portfolio → https://0nly0.pages.dev**  
   
-<sub>© 2026 02nly0<sub>
+<sub>©2026 02nly0<sub>
 
----
+#
 
 <div>
