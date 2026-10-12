@@ -30,7 +30,7 @@
 ### Discord  
 <div align="center">
   
-<a <a href="https://discord.com/users/1090592268739694714"><img src="https://lanyard.cnrad.dev/api/1090592268739694714?hideActivity=true&hideBadges=true" /></a>
+<a href="https://discord.com/users/1090592268739694714"><img src="https://lanyard.cnrad.dev/api/1090592268739694714?hideActivity=true&hideBadges=true" /></a>
 </div>
 
 <div align="center">  
